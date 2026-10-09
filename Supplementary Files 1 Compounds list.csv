@@ -1,0 +1,13 @@
+Sr. No.,RT,Compound Name,SMILES,Molecular Formula,Molecular Weight,M/Z,Area %
+1,15.614,"1-Butene, 1-(methylthio)-, (Z)-",CC/C=C\SC,C5H10S,102.19 g/mol,87,14.12
+2,18.066,4-(2-Methyl-1H-imidazol-1-yl)aniline,Cc1nccn1-c1ccc(N)cc1,C10H11N3,173.22 g/mol,173.1,0.92
+3,18.465,Phytol,C[C@@H](CCC[C@@H](C)CCC/C(=C/CO)/C)CCCC(C)C,C20H40O,296.53 g/mol,71,0.76
+4,21.069,5-Cyano-4-oxo-6-phenyl-2-thioxohexahydropyrimidine,O=C1NC(=S)NC(c2ccccc2)C1C#N,C11H9N3OS,231.27 g/mol,231.2,2.02
+5,21.989,Bis(2-ethylhexyl) phthalate,CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC,C24H38O4,390.56 g/mol,149,10.39
+6,22.216,"3-Butenoic acid, 4-phenyl-, butyl ester",CCCCOC(=O)C/C=C/C1=CC=CC=C1,C14H18O2,218.30 g/mol,117.1,11.82
+7,22.344,2-[(2-Furanylmethyl)amino]benzoic acid,O=C(O)c1ccccc1NCc1ccco1,C12H11NO3,217.22 g/mol,81,11.66
+8,22.485,"Tricyclo[3.2.1.0(2,4)]octane-3-carboxylic acid (furan-2-ylmethyl)-amide",O=C(NCc1ccco1)C1C2CC3CC(C2)C13,C14H17NO2,231.29 g/mol,162.1,5.77
+9,22.998,"8-Phosphadispiro[2.1.2.2]nonane, 8-phenyl-",C1=CC=C(C=C1)C2C(C(=O)NC(=S)N2)C#N,C14H17P,216.26 g/mol,216.1,33.82
+10,23.329,6-Methoxy-2-[2-[imidazol-1-yl]ethoxy]-8-nitroquinoline,COc1cc([N+](=O)[O-])c2nc(OCCN3C=CN=C3)ccc2c1,C15H14N4O4,314.30 g/mol,95,2.52
+11,23.464,"16-Heptadecyn-4-one, 1,2-dihydroxy-",C#CCCCCCCCCCCCC(=O)CC(O)CO,C17H28O3,282.42 g/mol,81,1.14
+12,27.75,Vitamin E (?-Tocopherol),Cc1c(C)c2c(c(C)c1O)CC[C@](C)(CCC[C@H](C)CCC[C@H](C)CCCC(C)C)O2,C29H50O2,430.71 g/mol,165.1,2.69
